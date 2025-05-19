@@ -1,1 +1,13 @@
-java progams
+first folder create cheyyuka
+githubill poii repository create cheyyuka
+url linke copy cheyyuka
+commad promptill pokua
+git init 
+git clone <paste url >
+clone completed
+in local repository create text document add something
+cmd
+git add .
+git commit -m"changes"
+git push
+
